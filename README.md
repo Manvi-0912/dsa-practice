@@ -3,9 +3,9 @@
 Daily Data Structures & Algorithms practice in Python.
 
 ## Progress
-- Arrays: 6 ✅
-- Strings: 4 ✅
-- Patterns: 2 ✅
+- Arrays: 7 ✅
+- Strings: 5 ✅
+- Patterns: 3 ✅
 - **Total Solved: 15 🎯**
 
 ## Goal
