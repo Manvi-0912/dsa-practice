@@ -3,10 +3,10 @@
 Daily Data Structures & Algorithms practice in Python.
 
 ## Progress
-- Arrays: 7 ✅
-- Strings: 5 ✅
-- Patterns: 3 ✅
-- **Total Solved: 15 🎯**
+- Arrays: 10 ✅
+- Strings: 6 ✅
+- Patterns: 4 ✅
+- **Total Solved: 20 🎯**
 
 ## Goal
 Solve 300+ problems before placements.
@@ -29,3 +29,8 @@ Solve 300+ problems before placements.
 | 13 | Move Zeros | Arrays | ✅ |
 | 14 | Count Words | Strings | ✅ |
 | 15 | Power of Two | Patterns | ✅ |
+| 16 | Binary Search | Arrays | ✅ |
+| 17 | Valid Parentheses | Strings | ✅ |
+| 18 | Climb Stairs | Patterns | ✅ |
+| 19 | Maximum Subarray | Arrays | ✅ |
+| 20 | Reverse Linked List | Arrays | ✅ |
