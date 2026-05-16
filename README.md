@@ -3,10 +3,10 @@
 Daily Data Structures & Algorithms practice in Python.
 
 ## Progress
-- Arrays: 17 ✅
-- Strings: 9 ✅
-- Patterns: 5 ✅
-- **Total Solved: 30 🎯**
+- Arrays: 20 ✅
+- Strings: 11 ✅
+- Patterns: 6 ✅
+- **Total Solved: 35 🎯**
 
 ## Goal
 Solve 300+ problems before placements.
@@ -44,3 +44,8 @@ Solve 300+ problems before placements.
 | 28 | First Unique Character | Strings | ✅ |
 | 29 | Number of 1 Bits | Patterns | ✅ |
 | 30 | Majority Element | Arrays | ✅ |
+| 31 | Reverse Words | Strings | ✅ |
+| 32 | Happy Number | Patterns | ✅ |
+| 33 | Search Insert Position | Arrays | ✅ |
+| 34 | Intersection of Arrays | Arrays | ✅ |
+| 35 | Longest Palindrome Length | Strings | ✅ |
