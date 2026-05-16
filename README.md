@@ -3,10 +3,10 @@
 Daily Data Structures & Algorithms practice in Python.
 
 ## Progress
-- Arrays: 13 ✅
-- Strings: 8 ✅
-- Patterns: 4 ✅
-- **Total Solved: 25 🎯**
+- Arrays: 17 ✅
+- Strings: 9 ✅
+- Patterns: 5 ✅
+- **Total Solved: 30 🎯**
 
 ## Goal
 Solve 300+ problems before placements.
@@ -39,3 +39,8 @@ Solve 300+ problems before placements.
 | 23 | Longest Common Prefix | Strings | ✅ |
 | 24 | Single Number | Arrays | ✅ |
 | 25 | Is Subsequence | Strings | ✅ |
+| 26 | Best Time to Buy Stock | Arrays | ✅ |
+| 27 | Merge Sorted Arrays | Arrays | ✅ |
+| 28 | First Unique Character | Strings | ✅ |
+| 29 | Number of 1 Bits | Patterns | ✅ |
+| 30 | Majority Element | Arrays | ✅ |
